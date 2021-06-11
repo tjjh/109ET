@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# 109年度三年級模擬考R語言輸出結果
 
-You can use the [editor on GitHub](https://github.com/tjjh/109ET/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 以下為程式測試練習結果，僅供參考，不代表任何立場，請自行判讀。開啟`(圖多慎入!!!)`網頁連結時，因圖檔多檔案大，請務必耐心等候，謝謝。
+### [A、110年教育會考R語言輸出結果](https://tjjh.github.io/109ET/R109a05-ggplotly.RMD.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 箱形圖說明
+<img src="https://tjjh.github.io/109MT/001.png">
+<img src="https://tjjh.github.io/109MT/002.png">
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tjjh/109ET/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 過山龍製 2021.06.11
