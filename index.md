@@ -5,6 +5,4 @@
 
 ### 箱形圖說明
 <img src="https://tjjh.github.io/109MT/001.png">
-<img src="https://tjjh.github.io/109MT/002.png">
-
 ### 過山龍製 2021.06.11
